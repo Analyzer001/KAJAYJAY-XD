@@ -7,11 +7,7 @@ A smart whatsApp bot
   <img src="https://files.catbox.moe/pd9n1q.png?font=Transformers&size=80&pause=1000&color=0a00FF&center=true&width=1000&height=150&lines=KAJAYJAY-XD" alt="Typing SVG" />
 </p>
 
-  <div align="center"> 
-  <a href="https://youtube.com/@marinyamestudios"> 
-    <img src="[https://files.catbox.moe/pd9n1q.png" alt="KAJAYJAY-XD" height="300"> 
-  </a> 
-</div>
+ 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=1000&color=FF0000&center=true&width=1000&height=80&lines=By+HACKER+ANALYZER+CLR" alt="Typing SVG" />
