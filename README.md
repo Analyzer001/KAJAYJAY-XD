@@ -4,7 +4,7 @@ A smart whatsApp bot
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Transformers&size=80&pause=1000&color=0a00FF&center=true&width=1000&height=150&lines=MOSES-XD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Transformers&size=80&pause=1000&color=0a00FF&center=true&width=1000&height=150&lines=KAJAYJAY-XD" alt="Typing SVG" />
 </p>
 
   <div align="center"> 
@@ -14,7 +14,7 @@ A smart whatsApp bot
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=1000&color=FF0000&center=true&width=1000&height=80&lines=By+MR+MOSES+CLR" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=1000&color=FF0000&center=true&width=1000&height=80&lines=By+HACKER+ANALYZER+CLR" alt="Typing SVG" />
 </p>
 
 
@@ -24,10 +24,10 @@ A smart whatsApp bot
 
 **1. Fork This Repository**
 
-*_Start by forking Moses-xD to your own GitHub account. Click the button below to fork:_*
+*_Start by forking KAJAYJAY-xD to your own GitHub account. Click the button below to fork:_*
 
   <p align="center">
-  <a href="https://github.com/mrmosesclr/MOSES-XD"><img title="Developer" src="https://img.shields.io/badge/Author-MR MOSES CLR-00FFFF.svg?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/Analyzer001/KAJAYJAY-XD"><img title="Developer" src="https://img.shields.io/badge/Author-HACKER ANALYZER CLR-00FFFF.svg?style=for-the-badge&logo=github"/>
 
 ### Panel Deployment
 
