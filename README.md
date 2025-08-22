@@ -4,7 +4,7 @@ A smart whatsApp bot
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Transformers&size=80&pause=1000&color=0a00FF&center=true&width=1000&height=150&lines=KAJAYJAY-XD" alt="Typing SVG" />
+  <img src="https://files.catbox.moe/pd9n1q.png?font=Transformers&size=80&pause=1000&color=0a00FF&center=true&width=1000&height=150&lines=KAJAYJAY-XD" alt="Typing SVG" />
 </p>
 
   <div align="center"> 
