@@ -91,7 +91,7 @@ This project is licensed under the MIT License. However, you must:
 ## 📜 Copyright Notice
 
 Copyright (c) 2025 Kajayjay. All rights reserved.
-{/* ![Mr Moses](https://files.catbox.moe/vzzoi2.jpg) */}
+![Speed]([https://files.catbox.moe/ppd2pu.png]
 
 
 This project contains code from various open source projects:
