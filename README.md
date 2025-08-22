@@ -1,5 +1,5 @@
 A smart whatsApp bot 
-# MOSES-XD
+# KAJAYJAY-XD
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
@@ -47,25 +47,11 @@ For further customization and setup guidance, click the button below:
 </a>
 </div>
 
-### Join Us
-
-<div align="center">
-  <a href="https://t.me/mrmosesclr">
-    <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
-  </a>
-  <a href="https://whatsapp.com/channel/0029VaFdPojJkK70RWo2Bf1l">
-    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WA.Channel"/>
-  </a>
-<a href="https://chat.whatsapp.com/JGmReDo55rvAAe9GhgV8YO">
-    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black" alt="Join WA.Group"/>
-  </a>
-</div>
-
 ---
 
 ## 🙌 Contributions
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mrmosesclr/MOSES-XD/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Analyzer001/KAJAYJAY-XD/issues).
 
 ---
 
@@ -78,8 +64,8 @@ If you like this project, please give it a [⭐️ star on GitHub](https://githu
 
 - [Munyaradzi-Marinyame](https://github.com/mrmosesclr)
 - [Baileys](https://github.com/adiwajshing/Baileys)
-- [Marinyame-Studios](https://github.com/moses) 
-- [MOSES](https://github.com/MOSES-XD)
+- [Marinyame-Studios](https://github.com/Analyzer001) 
+- [KAJAYJAY](https://github.com/KAJAYJAY-XD)
 
 ---
 
@@ -104,7 +90,7 @@ This project is licensed under the MIT License. However, you must:
 
 ## 📜 Copyright Notice
 
-Copyright (c) 2025 Munyaradzi V Marinyame. All rights reserved.
+Copyright (c) 2025 Kajayjay. All rights reserved.
 ![Mr Moses](https://files.catbox.moe/vzzoi2.jpg)
 
 
