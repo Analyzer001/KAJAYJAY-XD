@@ -9,7 +9,7 @@ A smart whatsApp bot
 
   <div align="center"> 
   <a href="https://youtube.com/@marinyamestudios"> 
-    <img src="https://github.com/mrmosesclr/MOSES-XD/blob/main/assets/bot_image.jpg" alt="MOSES-XD" height="300"> 
+    <img src="https://github.com/Analyzer001/KAJAYJAY-XD/blob/main/assets/bot_image.jpg" alt="KAJAYJAY-XD" height="300"> 
   </a> 
 </div>
 
