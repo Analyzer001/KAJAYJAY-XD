@@ -1,7 +1,7 @@
 const settings = require("../settings");
 async function aliveCommand(sock, chatId) {
     try {
-        const message = `──〔 𝙈𝙊𝙎𝙀𝙎-𝙓𝘿 〕───
+        const message = `──〔 KAJAYJAY-𝙓𝘿 〕───
 > √        *_is Alive!_*
 
 ✨𝘽𝙤𝙩 𝙎𝙩𝙖𝙩𝙪𝙨: Active ✅
@@ -20,7 +20,7 @@ async function aliveCommand(sock, chatId) {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363203551855118@newsletter',
-                    newsletterName: '𝗠𝗢𝗦𝗘𝗦-𝗫𝗗',
+                    newsletterName: 'KAJAYJAY-𝗫𝗗',
                     serverMessageId: -1
                 }
             }
